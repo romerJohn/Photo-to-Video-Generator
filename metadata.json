@@ -1,0 +1,7 @@
+{
+  "name": "Photo to Video Animator",
+  "description": "Animate still photos into high-quality videos using Veo video generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
